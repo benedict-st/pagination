@@ -23,6 +23,6 @@ module.exports = {
         // Использование двойных кавычек
         quotes: ["error", "double", { allowTemplateLiterals: true }],
         "spaced-comment": ["error", "always", { exceptions: ["-", "+"] }],
-        "react/prop-types": [1, "customValidators"]
+        "react/prop-types": [1]
     }
 };
